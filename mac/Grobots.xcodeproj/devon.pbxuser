@@ -1,0 +1,1122 @@
+// !$*UTF8*$!
+{
+	0065010B15CDFDAA00A4DA40 /* GBNumber.cpp:16 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 00DD370B0B4098CF00390993 /* GBNumber.cpp */;
+		functionName = "GBNumber::GBNumber()";
+		hitCount = 1;
+		lineNumber = 16;
+		modificationTime = 367135117.708753;
+		state = 1;
+	};
+	0065011215CDFDC600A4DA40 /* GBNumber.h:162 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 00DD370C0B4098CF00390993 /* GBNumber.h */;
+		functionName = "GBNumber::GBNumber()";
+		hitCount = 3;
+		lineNumber = 162;
+		modificationTime = 367135430.683963;
+		state = 1;
+	};
+	0065011415CDFDCA00A4DA40 /* GBNumber.h:169 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 00DD370C0B4098CF00390993 /* GBNumber.h */;
+		functionName = "GBNumber::GBNumber()";
+		hitCount = 1;
+		lineNumber = 169;
+		modificationTime = 367135116.14928;
+		state = 1;
+	};
+	0065024015CE255600A4DA40 /* GBScores.cpp:388 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 00DD36DF0B4098CF00390993 /* GBScores.cpp */;
+		functionName = "GBSideScores::ReportFrame()";
+		hitCount = 1;
+		lineNumber = 388;
+		modificationTime = 367135120.84593;
+		state = 1;
+	};
+	0065024515CE258100A4DA40 /* GBScores.cpp:398 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 00DD36DF0B4098CF00390993 /* GBScores.cpp */;
+		functionName = "GBSideScores::ReportFrame()";
+		hitCount = 1;
+		lineNumber = 398;
+		modificationTime = 367135120.846449;
+		state = 1;
+	};
+	0065025D15CE2AC100A4DA40 /* GBScores.cpp:304 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 00DD36DF0B4098CF00390993 /* GBScores.cpp */;
+		functionName = "GBScores::Efficiency()";
+		hitCount = 1;
+		lineNumber = 304;
+		modificationTime = 367135120.915844;
+		state = 1;
+	};
+	0065048B15CF11FE00A4DA40 /* GBStackBrain.cpp:216 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 00DD36CC0B4098A000390993 /* GBStackBrain.cpp */;
+		functionName = "GBStackBrain::ToAddress()";
+		hitCount = 1;
+		lineNumber = 216;
+		modificationTime = 367135119.915774;
+		state = 1;
+	};
+	006C9A850B5885960048A531 /* PBXCPPExceptionBreakpoint */ = {
+		isa = PBXCPPExceptionBreakpoint;
+		actions = (
+		);
+		condition = 006C9A880B5885B20048A531 /* XCCPPCondition */;
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		exceptionName = $;
+		hitCount = 1;
+		isThrow = 1;
+		modificationTime = 367135098.558023;
+		state = 1;
+	};
+	006C9A880B5885B20048A531 /* XCCPPCondition */ = {
+		isa = XCCPPCondition;
+		conditionString = "On Throw";
+	};
+	006C9AA50B5888230048A531 /* XCBreakpointsBucket */ = {
+		isa = XCBreakpointsBucket;
+		name = "Project Breakpoints";
+		objects = (
+			006C9A850B5885960048A531 /* PBXCPPExceptionBreakpoint */,
+			00B6C1401544DF72001FA5BC /* GBTournamentView.cpp:131 */,
+			00EBA3D115CB789000122F03 /* GBStackBrain.cpp:219 */,
+			00EBA3D315CB789100122F03 /* GBStackBrain.cpp:219 */,
+			00EBA3D515CB789300122F03 /* GBStackBrain.cpp:219 */,
+			00EBA3D715CB789500122F03 /* GBStackBrain.cpp:219 */,
+			00EBA3D915CB789500122F03 /* GBStackBrain.cpp:219 */,
+			00EBA3DB15CB789700122F03 /* GBStackBrain.cpp:219 */,
+			00EBA3DD15CB789B00122F03 /* GBStackBrain.cpp:226 */,
+			00EBA3DF15CB789D00122F03 /* GBStackBrain.cpp:226 */,
+			00EBA3E415CB79E100122F03 /* GBBrainSpec.cpp:35 */,
+			00EBA3E615CB79E500122F03 /* GBBrainSpec.cpp:35 */,
+			00EBA3E815CB79E700122F03 /* GBBrainSpec.cpp:35 */,
+			0065010B15CDFDAA00A4DA40 /* GBNumber.cpp:16 */,
+			0065011215CDFDC600A4DA40 /* GBNumber.h:162 */,
+			0065011415CDFDCA00A4DA40 /* GBNumber.h:169 */,
+			0065024015CE255600A4DA40 /* GBScores.cpp:388 */,
+			0065024515CE258100A4DA40 /* GBScores.cpp:398 */,
+			0065025D15CE2AC100A4DA40 /* GBScores.cpp:304 */,
+			0065048B15CF11FE00A4DA40 /* GBStackBrain.cpp:216 */,
+		);
+	};
+	00B6C1401544DF72001FA5BC /* GBTournamentView.cpp:131 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 00DD37300B4098CF00390993 /* GBTournamentView.cpp */;
+		functionName = "GBTournamentView::DrawItem()";
+		hitCount = 1;
+		lineNumber = 131;
+		modificationTime = 367135124.609433;
+		state = 1;
+	};
+	00DD36B10B40980700390993 /* Grobots */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 3;
+		libgmallocEnabled = 0;
+		name = Grobots;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	00DD36BD0B40981A00390993 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 1;
+		scmConfiguration = {
+			CVSToolPath = /usr/bin/ocvs;
+			CVSUseSSH = YES;
+		};
+		scmType = scm.cvs;
+	};
+	00DD36BE0B40981A00390993 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	00DD36C80B4098A000390993 /* GBBrain.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {679, 852}}";
+			sepNavSelRange = "{279, 0}";
+			sepNavVisRect = "{{0, 0}, {679, 852}}";
+		};
+	};
+	00DD36C90B4098A000390993 /* GBBrain.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {679, 852}}";
+			sepNavSelRange = "{368, 0}";
+			sepNavVisRect = "{{0, 0}, {679, 852}}";
+		};
+	};
+	00DD36CA0B4098A000390993 /* GBBrainSpec.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {679, 852}}";
+			sepNavSelRange = "{779, 0}";
+			sepNavVisRect = "{{0, 0}, {679, 852}}";
+		};
+	};
+	00DD36CB0B4098A000390993 /* GBBrainSpec.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {680, 938}}";
+			sepNavSelRange = "{1165, 0}";
+			sepNavVisRect = "{{0, 430}, {680, 508}}";
+		};
+	};
+	00DD36CC0B4098A000390993 /* GBStackBrain.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {680, 5082}}";
+			sepNavSelRange = "{6452, 0}";
+			sepNavVisRect = "{{0, 3043}, {680, 508}}";
+		};
+	};
+	00DD36CD0B4098A000390993 /* GBStackBrain.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {680, 1638}}";
+			sepNavSelRange = "{3777, 0}";
+			sepNavVisRect = "{{0, 1027}, {680, 508}}";
+		};
+	};
+	00DD36CE0B4098A000390993 /* GBStackBrainOpcodes.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 2170}}";
+			sepNavSelRange = "{1300, 0}";
+			sepNavVisRect = "{{0, 0}, {709, 842}}";
+		};
+	};
+	00DD36CF0B4098A000390993 /* GBStackBrainOpcodes.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {728, 2632}}";
+			sepNavSelRange = "{1911, 6}";
+			sepNavVisRect = "{{0, 468}, {709, 842}}";
+		};
+	};
+	00DD36D00B4098A000390993 /* GBStackBrainPrimitives.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {926, 8974}}";
+			sepNavSelRange = "{4086, 10}";
+			sepNavVisRect = "{{0, 692}, {709, 842}}";
+		};
+	};
+	00DD36D10B4098A000390993 /* GBStackBrainSpec.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 10836}}";
+			sepNavSelRange = "{5799, 12}";
+			sepNavVisRect = "{{0, 3008}, {709, 842}}";
+		};
+	};
+	00DD36D20B4098A000390993 /* GBStackBrainSpec.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 2478}}";
+			sepNavSelRange = "{3292, 11}";
+			sepNavVisRect = "{{0, 822}, {709, 842}}";
+		};
+	};
+	00DD36DB0B4098CF00390993 /* GBHardwareSpec.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {902, 8596}}";
+			sepNavSelRange = "{15238, 6}";
+			sepNavVisRect = "{{0, 6586}, {709, 842}}";
+		};
+	};
+	00DD36DC0B4098CF00390993 /* GBHardwareSpec.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 3024}}";
+			sepNavSelRange = "{3493, 0}";
+			sepNavVisRect = "{{0, 1729}, {709, 842}}";
+		};
+	};
+	00DD36DD0B4098CF00390993 /* GBRobotType.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1007, 1666}}";
+			sepNavSelRange = "{1071, 54}";
+			sepNavVisRect = "{{0, 469}, {1007, 504}}";
+		};
+	};
+	00DD36DE0B4098CF00390993 /* GBRobotType.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {710, 1050}}";
+			sepNavSelRange = "{687, 0}";
+			sepNavVisRect = "{{0, 0}, {709, 842}}";
+		};
+	};
+	00DD36DF0B4098CF00390993 /* GBScores.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {863, 5838}}";
+			sepNavSelRange = "{1042, 67}";
+			sepNavVisRect = "{{0, 247}, {863, 529}}";
+		};
+	};
+	00DD36E00B4098CF00390993 /* GBScores.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {680, 2618}}";
+			sepNavSelRange = "{204, 0}";
+			sepNavVisRect = "{{0, 0}, {680, 508}}";
+		};
+	};
+	00DD36E10B4098CF00390993 /* GBSide.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 4060}}";
+			sepNavSelRange = "{1683, 0}";
+			sepNavVisRect = "{{0, 949}, {709, 842}}";
+		};
+	};
+	00DD36E20B4098CF00390993 /* GBSide.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {680, 1610}}";
+			sepNavSelRange = "{666, 11}";
+			sepNavVisRect = "{{0, 481}, {680, 508}}";
+		};
+	};
+	00DD36E30B4098CF00390993 /* GBSideReader.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {680, 9520}}";
+			sepNavSelRange = "{8975, 0}";
+			sepNavVisRect = "{{0, 5087}, {680, 508}}";
+		};
+	};
+	00DD36E40B4098CF00390993 /* GBSideReader.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {679, 1176}}";
+			sepNavSelRange = "{2204, 0}";
+			sepNavVisRect = "{{0, 324}, {679, 852}}";
+		};
+	};
+	00DD36E60B4098CF00390993 /* GBDecorations.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 1050}}";
+			sepNavSelRange = "{381, 0}";
+			sepNavVisRect = "{{0, 0}, {709, 842}}";
+		};
+	};
+	00DD36E70B4098CF00390993 /* GBDecorations.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 842}}";
+			sepNavSelRange = "{1317, 0}";
+			sepNavVisRect = "{{0, 0}, {709, 842}}";
+		};
+	};
+	00DD36E80B4098CF00390993 /* GBFood.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {680, 2268}}";
+			sepNavSelRange = "{3386, 0}";
+			sepNavVisRect = "{{0, 1853}, {680, 415}}";
+		};
+	};
+	00DD36E90B4098CF00390993 /* GBFood.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 854}}";
+			sepNavSelRange = "{175, 15}";
+			sepNavVisRect = "{{0, 0}, {709, 842}}";
+		};
+	};
+	00DD36EA0B4098CF00390993 /* GBHardwareState.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {824, 12012}}";
+			sepNavSelRange = "{1063, 0}";
+			sepNavVisRect = "{{0, 3448}, {709, 842}}";
+		};
+	};
+	00DD36EB0B4098CF00390993 /* GBHardwareState.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 4494}}";
+			sepNavSelRange = "{373, 35}";
+			sepNavVisRect = "{{0, 0}, {709, 842}}";
+		};
+	};
+	00DD36EE0B4098CF00390993 /* GBObject.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {710, 3808}}";
+			sepNavSelRange = "{6161, 0}";
+			sepNavVisRect = "{{0, 2812}, {709, 842}}";
+		};
+	};
+	00DD36EF0B4098CF00390993 /* GBObject.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 1484}}";
+			sepNavSelRange = "{3289, 0}";
+			sepNavVisRect = "{{0, 628}, {709, 842}}";
+		};
+	};
+	00DD36F00B4098CF00390993 /* GBObjectWorld.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {716, 7308}}";
+			sepNavSelRange = "{9525, 0}";
+			sepNavVisRect = "{{0, 3574}, {709, 842}}";
+		};
+	};
+	00DD36F10B4098CF00390993 /* GBObjectWorld.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {821, 1008}}";
+			sepNavSelRange = "{1972, 0}";
+			sepNavVisRect = "{{0, 194}, {821, 802}}";
+		};
+	};
+	00DD36F20B4098CF00390993 /* GBRobot.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {734, 5992}}";
+			sepNavSelRange = "{8468, 0}";
+			sepNavVisRect = "{{0, 3506}, {709, 842}}";
+		};
+	};
+	00DD36F30B4098CF00390993 /* GBRobot.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 1120}}";
+			sepNavSelRange = "{2238, 0}";
+			sepNavVisRect = "{{0, 250}, {709, 842}}";
+		};
+	};
+	00DD36F40B4098CF00390993 /* GBSensorShot.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {710, 1148}}";
+			sepNavSelRange = "{2014, 0}";
+			sepNavVisRect = "{{0, 640}, {680, 508}}";
+		};
+	};
+	00DD36F50B4098CF00390993 /* GBSensorShot.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {680, 602}}";
+			sepNavSelRange = "{800, 0}";
+			sepNavVisRect = "{{0, 94}, {680, 508}}";
+		};
+	};
+	00DD36F60B4098CF00390993 /* GBShot.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {830, 5894}}";
+			sepNavSelRange = "{6003, 0}";
+			sepNavVisRect = "{{0, 2679}, {680, 508}}";
+		};
+	};
+	00DD36F70B4098CF00390993 /* GBShot.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {800, 1722}}";
+			sepNavSelRange = "{302, 93}";
+			sepNavVisRect = "{{0, 0}, {709, 842}}";
+		};
+	};
+	00DD36F80B4098CF00390993 /* GBWorld.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {746, 9184}}";
+			sepNavSelRange = "{18101, 0}";
+			sepNavVisRect = "{{0, 7646}, {709, 842}}";
+		};
+	};
+	00DD36F90B4098CF00390993 /* GBWorld.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 1834}}";
+			sepNavSelRange = "{2838, 0}";
+			sepNavVisRect = "{{0, 992}, {709, 842}}";
+		};
+	};
+	00DD36FB0B4098CF00390993 /* GBColor.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 1610}}";
+			sepNavSelRange = "{3253, 46}";
+			sepNavVisRect = "{{0, 768}, {709, 842}}";
+		};
+	};
+	00DD36FC0B4098CF00390993 /* GBColor.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 842}}";
+			sepNavSelRange = "{182, 16}";
+			sepNavVisRect = "{{0, 0}, {709, 842}}";
+		};
+	};
+	00DD36FD0B4098CF00390993 /* GBDeletionReporter.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {729, 742}}";
+			sepNavSelRange = "{794, 0}";
+			sepNavVisRect = "{{0, 35}, {729, 707}}";
+		};
+	};
+	00DD36FF0B4098CF00390993 /* GBErrors.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {656, 2296}}";
+			sepNavSelRange = "{2933, 5}";
+			sepNavVisRect = "{{0, 0}, {597, 840}}";
+		};
+	};
+	00DD37000B4098CF00390993 /* GBErrors.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {745, 1330}}";
+			sepNavSelRange = "{1576, 44}";
+			sepNavVisRect = "{{0, 833}, {745, 497}}";
+		};
+	};
+	00DD37010B4098CF00390993 /* GBFinePoint.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 1498}}";
+			sepNavSelRange = "{2613, 0}";
+			sepNavVisRect = "{{0, 656}, {709, 842}}";
+		};
+	};
+	00DD37020B4098CF00390993 /* GBFinePoint.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 2058}}";
+			sepNavSelRange = "{1178, 0}";
+			sepNavVisRect = "{{0, 0}, {709, 842}}";
+		};
+	};
+	00DD37030B4098CF00390993 /* GBGraphics.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {792, 5138}}";
+			sepNavSelRange = "{4451, 0}";
+			sepNavVisRect = "{{0, 2131}, {792, 428}}";
+		};
+	};
+	00DD37040B4098CF00390993 /* GBGraphics.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {821, 1750}}";
+			sepNavSelRange = "{739, 0}";
+			sepNavVisRect = "{{0, 0}, {821, 802}}";
+		};
+	};
+	00DD37070B4098CF00390993 /* GBMilliseconds.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {792, 423}}";
+			sepNavSelRange = "{310, 0}";
+			sepNavVisRect = "{{0, 0}, {792, 423}}";
+		};
+	};
+	00DD370B0B4098CF00390993 /* GBNumber.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 3556}}";
+			sepNavSelRange = "{4632, 0}";
+			sepNavVisRect = "{{0, 1910}, {709, 842}}";
+		};
+	};
+	00DD370C0B4098CF00390993 /* GBNumber.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {792, 4606}}";
+			sepNavSelRange = "{4526, 0}";
+			sepNavVisRect = "{{0, 2148}, {792, 423}}";
+		};
+	};
+	00DD370D0B4098CF00390993 /* GBPlatform.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {680, 644}}";
+			sepNavSelRange = "{351, 5}";
+			sepNavVisRect = "{{0, 0}, {680, 415}}";
+		};
+	};
+	00DD370E0B4098CF00390993 /* GBRandomState.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {745, 1288}}";
+			sepNavSelRange = "{1193, 17}";
+			sepNavVisRect = "{{0, 417}, {745, 497}}";
+		};
+	};
+	00DD37120B4098CF00390993 /* GBStringUtilities.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {680, 3150}}";
+			sepNavSelRange = "{4577, 0}";
+			sepNavVisRect = "{{0, 2119}, {680, 508}}";
+		};
+	};
+	00DD37130B4098CF00390993 /* GBStringUtilities.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {859, 658}}";
+			sepNavSelRange = "{692, 85}";
+			sepNavVisRect = "{{0, 0}, {859, 475}}";
+		};
+	};
+	00DD37140B4098CF00390993 /* GBTypes.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 966}}";
+			sepNavSelRange = "{1302, 13}";
+			sepNavVisRect = "{{0, 0}, {709, 842}}";
+		};
+	};
+	00DD37160B4098CF00390993 /* GBApplication.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {758, 11298}}";
+			sepNavSelRange = "{24654, 20}";
+			sepNavVisRect = "{{0, 9847}, {680, 508}}";
+		};
+	};
+	00DD37170B4098CF00390993 /* GBApplication.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {821, 882}}";
+			sepNavSelRange = "{635, 0}";
+			sepNavVisRect = "{{0, 0}, {821, 802}}";
+		};
+	};
+	00DD37180B4098CF00390993 /* GBMain.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {729, 950}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {729, 950}}";
+		};
+	};
+	00DD37190B4098CF00390993 /* GBViewsApplication.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {836, 7784}}";
+			sepNavSelRange = "{5132, 0}";
+			sepNavVisRect = "{{0, 4476}, {709, 842}}";
+		};
+	};
+	00DD371A0B4098CF00390993 /* GBViewsApplication.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 1414}}";
+			sepNavSelRange = "{898, 0}";
+			sepNavVisRect = "{{0, 0}, {709, 842}}";
+		};
+	};
+	00DD371B0B4098CF00390993 /* GBWindow.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {698, 3808}}";
+			sepNavSelRange = "{6024, 5}";
+			sepNavVisRect = "{{0, 3272}, {680, 415}}";
+		};
+	};
+	00DD371C0B4098CF00390993 /* GBWindow.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {680, 1204}}";
+			sepNavSelRange = "{1793, 5}";
+			sepNavVisRect = "{{0, 789}, {680, 415}}";
+		};
+	};
+	00DD371E0B4098CF00390993 /* GBAboutBox.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {680, 714}}";
+			sepNavSelRange = "{254, 7}";
+			sepNavVisRect = "{{0, 0}, {680, 508}}";
+		};
+	};
+	00DD371F0B4098CF00390993 /* GBAboutBox.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {729, 707}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {729, 707}}";
+		};
+	};
+	00DD37200B4098CF00390993 /* GBDebugger.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {776, 4746}}";
+			sepNavSelRange = "{12470, 6}";
+			sepNavVisRect = "{{0, 3082}, {709, 842}}";
+		};
+	};
+	00DD37210B4098CF00390993 /* GBDebugger.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {821, 802}}";
+			sepNavSelRange = "{922, 0}";
+			sepNavVisRect = "{{0, 0}, {821, 802}}";
+		};
+	};
+	00DD37220B4098CF00390993 /* GBListView.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {799, 1414}}";
+			sepNavSelRange = "{317, 0}";
+			sepNavVisRect = "{{0, 688}, {799, 726}}";
+		};
+	};
+	00DD37240B4098CF00390993 /* GBMiniMap.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {680, 3598}}";
+			sepNavSelRange = "{5087, 0}";
+			sepNavVisRect = "{{0, 1713}, {680, 508}}";
+		};
+	};
+	00DD37250B4098CF00390993 /* GBMiniMap.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {679, 868}}";
+			sepNavSelRange = "{292, 0}";
+			sepNavVisRect = "{{0, 0}, {679, 852}}";
+		};
+	};
+	00DD37260B4098CF00390993 /* GBPortal.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {776, 7588}}";
+			sepNavSelRange = "{5016, 0}";
+			sepNavVisRect = "{{0, 1498}, {709, 842}}";
+		};
+	};
+	00DD37270B4098CF00390993 /* GBPortal.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 1708}}";
+			sepNavSelRange = "{1784, 0}";
+			sepNavVisRect = "{{0, 426}, {709, 842}}";
+		};
+	};
+	00DD37280B4098CF00390993 /* GBRobotTypeView.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {722, 3570}}";
+			sepNavSelRange = "{707, 0}";
+			sepNavVisRect = "{{0, 0}, {709, 842}}";
+		};
+	};
+	00DD37290B4098CF00390993 /* GBRobotTypeView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {680, 924}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {680, 415}}";
+		};
+	};
+	00DD372A0B4098CF00390993 /* GBRosterView.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {776, 1736}}";
+			sepNavSelRange = "{2166, 0}";
+			sepNavVisRect = "{{0, 929}, {680, 508}}";
+		};
+	};
+	00DD372B0B4098CF00390993 /* GBRosterView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {679, 852}}";
+			sepNavSelRange = "{781, 0}";
+			sepNavVisRect = "{{0, 0}, {679, 852}}";
+		};
+	};
+	00DD372C0B4098CF00390993 /* GBScoresView.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {800, 3150}}";
+			sepNavSelRange = "{264, 0}";
+			sepNavVisRect = "{{0, 1644}, {709, 842}}";
+		};
+	};
+	00DD372D0B4098CF00390993 /* GBScoresView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {821, 802}}";
+			sepNavSelRange = "{551, 0}";
+			sepNavVisRect = "{{0, 0}, {821, 802}}";
+		};
+	};
+	00DD372E0B4098CF00390993 /* GBSideDebugger.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {734, 1904}}";
+			sepNavSelRange = "{3320, 0}";
+			sepNavVisRect = "{{0, 1062}, {709, 842}}";
+		};
+	};
+	00DD372F0B4098CF00390993 /* GBSideDebugger.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {821, 802}}";
+			sepNavSelRange = "{373, 0}";
+			sepNavVisRect = "{{0, 0}, {821, 802}}";
+		};
+	};
+	00DD37300B4098CF00390993 /* GBTournamentView.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {782, 2478}}";
+			sepNavSelRange = "{1161, 0}";
+			sepNavVisRect = "{{0, 1218}, {709, 842}}";
+		};
+	};
+	00DD37310B4098CF00390993 /* GBTournamentView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 842}}";
+			sepNavSelRange = "{396, 0}";
+			sepNavVisRect = "{{0, 0}, {709, 842}}";
+		};
+	};
+	00DD37320B4098CF00390993 /* GBView.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {792, 5712}}";
+			sepNavSelRange = "{4084, 0}";
+			sepNavVisRect = "{{0, 1361}, {792, 428}}";
+		};
+	};
+	00DD37330B4098CF00390993 /* GBView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {821, 2240}}";
+			sepNavSelRange = "{2016, 0}";
+			sepNavVisRect = "{{0, 0}, {821, 802}}";
+		};
+	};
+	00EBA3D115CB789000122F03 /* GBStackBrain.cpp:219 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 00DD36CC0B4098A000390993 /* GBStackBrain.cpp */;
+		functionName = "GBStackBrain::ToAddress()";
+		hitCount = 1;
+		lineNumber = 219;
+		modificationTime = 367135119.602115;
+		state = 1;
+	};
+	00EBA3D315CB789100122F03 /* GBStackBrain.cpp:219 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 00DD36CC0B4098A000390993 /* GBStackBrain.cpp */;
+		functionName = "GBStackBrain::ToAddress()";
+		hitCount = 1;
+		lineNumber = 219;
+		modificationTime = 367135119.67195;
+		state = 1;
+	};
+	00EBA3D515CB789300122F03 /* GBStackBrain.cpp:219 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 00DD36CC0B4098A000390993 /* GBStackBrain.cpp */;
+		functionName = "GBStackBrain::ToAddress()";
+		hitCount = 1;
+		lineNumber = 219;
+		modificationTime = 367135119.709412;
+		state = 1;
+	};
+	00EBA3D715CB789500122F03 /* GBStackBrain.cpp:219 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 00DD36CC0B4098A000390993 /* GBStackBrain.cpp */;
+		functionName = "GBStackBrain::ToAddress()";
+		hitCount = 1;
+		lineNumber = 219;
+		modificationTime = 367135119.709815;
+		state = 1;
+	};
+	00EBA3D915CB789500122F03 /* GBStackBrain.cpp:219 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 00DD36CC0B4098A000390993 /* GBStackBrain.cpp */;
+		functionName = "GBStackBrain::ToAddress()";
+		hitCount = 1;
+		lineNumber = 219;
+		modificationTime = 367135119.831049;
+		state = 1;
+	};
+	00EBA3DB15CB789700122F03 /* GBStackBrain.cpp:219 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 00DD36CC0B4098A000390993 /* GBStackBrain.cpp */;
+		functionName = "GBStackBrain::ToAddress()";
+		hitCount = 1;
+		lineNumber = 219;
+		modificationTime = 367135119.955776;
+		state = 1;
+	};
+	00EBA3DD15CB789B00122F03 /* GBStackBrain.cpp:226 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 00DD36CC0B4098A000390993 /* GBStackBrain.cpp */;
+		functionName = "GBStackBrain::ToInteger()";
+		hitCount = 1;
+		lineNumber = 226;
+		modificationTime = 367135098.522109;
+		state = 2;
+	};
+	00EBA3DF15CB789D00122F03 /* GBStackBrain.cpp:226 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 00DD36CC0B4098A000390993 /* GBStackBrain.cpp */;
+		functionName = "GBStackBrain::ToInteger()";
+		hitCount = 1;
+		lineNumber = 226;
+		modificationTime = 367135120.001793;
+		state = 1;
+	};
+	00EBA3E415CB79E100122F03 /* GBBrainSpec.cpp:35 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 00DD36CA0B4098A000390993 /* GBBrainSpec.cpp */;
+		functionName = "GBNotIntegerError::ToString()";
+		hitCount = 1;
+		lineNumber = 35;
+		modificationTime = 367135118.745469;
+		state = 1;
+	};
+	00EBA3E615CB79E500122F03 /* GBBrainSpec.cpp:35 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 00DD36CA0B4098A000390993 /* GBBrainSpec.cpp */;
+		functionName = "GBNotIntegerError::ToString()";
+		hitCount = 1;
+		lineNumber = 35;
+		modificationTime = 367135118.868356;
+		state = 1;
+	};
+	00EBA3E815CB79E700122F03 /* GBBrainSpec.cpp:35 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 00DD36CA0B4098A000390993 /* GBBrainSpec.cpp */;
+		functionName = "GBNotIntegerError::ToString()";
+		hitCount = 1;
+		lineNumber = 35;
+		modificationTime = 367135118.967263;
+		state = 1;
+	};
+	20286C28FDCF999611CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeBuildStyle = 4A9504C5FFE6A39111CA0CBA /* Debug */;
+		activeExecutable = 00DD36B10B40980700390993 /* Grobots */;
+		activeTarget = 8D0C4E890486CD37000505A6 /* Grobots */;
+		addToTargets = (
+			8D0C4E890486CD37000505A6 /* Grobots */,
+		);
+		breakpoints = (
+			006C9A850B5885960048A531 /* PBXCPPExceptionBreakpoint */,
+			00B6C1401544DF72001FA5BC /* GBTournamentView.cpp:131 */,
+			00EBA3D115CB789000122F03 /* GBStackBrain.cpp:219 */,
+			00EBA3D315CB789100122F03 /* GBStackBrain.cpp:219 */,
+			00EBA3D515CB789300122F03 /* GBStackBrain.cpp:219 */,
+			00EBA3D715CB789500122F03 /* GBStackBrain.cpp:219 */,
+			00EBA3D915CB789500122F03 /* GBStackBrain.cpp:219 */,
+			00EBA3DD15CB789B00122F03 /* GBStackBrain.cpp:226 */,
+			00EBA3E415CB79E100122F03 /* GBBrainSpec.cpp:35 */,
+			00EBA3E615CB79E500122F03 /* GBBrainSpec.cpp:35 */,
+			00EBA3E815CB79E700122F03 /* GBBrainSpec.cpp:35 */,
+			0065010B15CDFDAA00A4DA40 /* GBNumber.cpp:16 */,
+			0065011215CDFDC600A4DA40 /* GBNumber.h:162 */,
+			0065011415CDFDCA00A4DA40 /* GBNumber.h:169 */,
+			0065024015CE255600A4DA40 /* GBScores.cpp:388 */,
+			0065024515CE258100A4DA40 /* GBScores.cpp:398 */,
+			0065025D15CE2AC100A4DA40 /* GBScores.cpp:304 */,
+			0065048B15CF11FE00A4DA40 /* GBStackBrain.cpp:216 */,
+			00EBA3DB15CB789700122F03 /* GBStackBrain.cpp:219 */,
+			00EBA3DF15CB789D00122F03 /* GBStackBrain.cpp:226 */,
+		);
+		breakpointsGroup = 006C9AA50B5888230048A531 /* XCBreakpointsBucket */;
+		codeSenseManager = 00DD36BE0B40981A00390993 /* Code sense */;
+		executables = (
+			00DD36B10B40980700390993 /* Grobots */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					210,
+					20,
+					110,
+					109,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					234,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					645,
+					45.2085,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					361.5835,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					424,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					120,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					400,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					65,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 365895171;
+			PBXWorkspaceStateSaveDate = 365895171;
+		};
+		sourceControlManager = 00DD36BD0B40981A00390993 /* Source Control */;
+		userBuildSettings = {
+			OBJROOT = "$(SYMROOT)";
+		};
+	};
+	8D0C4E890486CD37000505A6 /* Grobots */ = {
+		activeExec = 0;
+		executables = (
+			00DD36B10B40980700390993 /* Grobots */,
+		);
+	};
+	8D0C4E960486CD37000505A6 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {709, 842}}";
+			sepNavSelRange = "{350, 0}";
+			sepNavVisRect = "{{0, 0}, {709, 842}}";
+		};
+	};
+}
