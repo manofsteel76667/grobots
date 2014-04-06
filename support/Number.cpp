@@ -197,7 +197,11 @@ bool IsInteger(GBNumberParam x) {
 	return x == (long)x;
 }
 
+#if USE_GBNUMBER
 GBNumber abs(GBNumberParam x) { return fabs(x); }
+#else
+double trunc(GBNumberParam d){ return (d>0) ? floor(d) : ceil(d) ; }
+#endif
 
 GBNumber mod(GBNumberParam x, GBNumberParam divisor) { return x - floor(x / divisor) * divisor; }
 GBNumber rem(GBNumberParam x, GBNumberParam divisor) { return x - trunc(x / divisor) * divisor; }

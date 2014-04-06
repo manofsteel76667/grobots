@@ -8,8 +8,8 @@
 
 #include "Errors.h"
 
-#define USE_GBNUMBER 1
-#define USE_DOUBLE 0
+#define USE_GBNUMBER 0
+#define USE_DOUBLE 1
 #if USE_GBNUMBER
 
 class GBNumber {
