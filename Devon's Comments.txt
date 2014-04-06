@@ -9,10 +9,11 @@ I don't think it would be particularly hard. Grobots is only 18k lines (and coul
 
 If I were translating to Java, I would:
  1) Replace all uses of GBNumber or GBLongNumber with float or double. (I've done some work toward this already.)
-
+	* JMA swapped the USE_GBNUMBER and USE_DOUBLE defines, made a tweak to GBNumber (no trunc function, abs already existed), compiled and ran
  2) Get rid of useless accessors (why did I write those?) and the silly GB prefix.
+	*JMA not sure which accessors he means, removed the GB prefix from files but not classes as I don't have refactor ability in VS Express.  Will do when I write the Java
  3)Verify that it all still works (in C++).
-
+	* JMA yes.  On to Java!
  4) Pick some fairly self-contained piece, such as HardwareSpec, and translate it to Java, which mostly means moving methods to their classes, removing const and explicit pointers, heap-allocating everything, and using Java libraries (strings and vectors) instead of C++ ones.
  5) Comment out any dependencies on untranslated parts (e.g. simulation), and make sure it compiles.
  6) Translate the rest of sides/* and its dependencies, aiming to be able to load hardware and then complete sides.
