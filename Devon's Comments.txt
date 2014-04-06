@@ -1,7 +1,7 @@
 Devon SchudyApr 25 7:16 PM
 
 John Wiltshire wrote:
-> I’m not sure it would be easy to move the C++ to Objective C (iOS) or
+> I’m not sure it would be easy to move the C++ to  Objective C (iOS) or
 > Java (Android) without breaking something.
 
 I don't think it would be particularly hard. Grobots is only 18k lines (and could be simplified a bit), and doesn't depend much on many C++-specific features, except for immediate values (GBNumber and GBFinePoint). GBNumber could simply be replaced with float, and if GBFinePoint allocation is a problem, we could pool and reuse them.
